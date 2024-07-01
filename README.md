@@ -41,23 +41,23 @@ DeliveryAPI is a project that provides RESTful APIs for managing delivery tracki
 
 ### Frontend (ReactJS)
 
-1. Navigate to the frontend directory:
+1. Create a new Vite project
+npm create vite@latest
 
-   ```bash
-   cd ../fedxtrackerreactui
-   ```
+2. Navigate to your project directory and select the React template
+cd your-project-name
+select react
+select javascript
 
-2. Install the required packages:
+3. Navigate to the specific directory (if needed)
+cd ../fedxtrackerreactui
 
-   ```bash
-   npm install
-   ```
+4. Install the required packages
+npm install
 
-3. Start the React development server:
+5. Start the React development server
+npm run dev
 
-   ```bash
-   npm start
-   ```
 
 ## Screenshots
 ##OUTPUT
